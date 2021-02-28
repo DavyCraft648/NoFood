@@ -1,0 +1,11 @@
+name: NoFood
+main: DavyCraft648\NoFood\NoFood
+version: 0.0.1
+api: 3.0.0
+author: DavyCraft648
+description: Feels like you are fasting
+website: https://github.com/DavyCraft648/NoFood
+permissions:
+  nofood.bypass:
+    description: Allow player to eat
+    default: false
